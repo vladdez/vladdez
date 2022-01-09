@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vladimir Mikheev. I am Data Scinetists with background in Cognitive Science. 
+My name is Vladimir Mikheev. I am Data Scinetist with background in Cognitive Science. 
 
 <!--
 **vladdez/vladdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
