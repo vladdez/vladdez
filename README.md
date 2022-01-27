@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### 📜Educational certificates
 - [Coursera certificates](https://github.com/vladdez/MOOC_certeficates)
-- 
+ 
 #### 🔬Research Projects
 - [pupillometry](https://github.com/vladdez/Pupillomerty-Project)
 - [Coursera analytics](https://github.com/vladdez/HSE_MOOC_forums_analytics)
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
     - [Time Series and Forecasting](https://github.com/vladdez/RD_forscasting)
 
 #### 👔Cases from job interviews
-- [Criteo](https://github.com/vladdez/Criteo_case)
+  - [Criteo](https://github.com/vladdez/Criteo_case)
 
 
