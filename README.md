@@ -30,7 +30,8 @@ Here are some ideas to get you started:
      - [printf](https://github.com/vladdez/ft_printf) - recreation of printf function from scratch with float numbers;
      - [push_swap](https://github.com/vladdez/push_swap) - sorting stack using two sorting algorithms and additional stack;
      - [fdf](https://github.com/vladdez/fdf) - basic visualization of objects;
-     - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors.
+     - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors;
+     - [corewar](https://github.com/almayor/corewar) - game of code examples in assembler.
 
     ***Python projects***:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
@@ -47,5 +48,9 @@ Here are some ideas to get you started:
 #### 👔Cases from job interviews
 
    - [Criteo](https://github.com/vladdez/Criteo_case)
+
+#### Hackatons
+
+   - [Summer School of Bionformatics - 2021](https://github.com/rainsummer613/biss_bar)
 
 
