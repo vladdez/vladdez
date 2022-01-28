@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 #### 🎓Educational Projects
  - **School 21 projects** 
-  - C projects:
+  - ***C projects***:
      - [printf](https://github.com/vladdez/ft_printf) - recreation of printf function from scratch with float numbers;
      - [push_swap](https://github.com/vladdez/push_swap) - sorting stack using two sorting algorithms and additional stack;
      - [fdf](https://github.com/vladdez/fdf) - basic visualization of objects;
      - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors.
 
-   - Python projects:
+   - ***Python projects***:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
      - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron)  - perceptron from scratch;
      - [tvp](https://github.com/vladdez/total-perspective-vortex) - visualization and analysis of brain activity using mne library;
