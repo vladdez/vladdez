@@ -31,7 +31,8 @@ Here are some ideas to get you started:
      - [push_swap](https://github.com/vladdez/push_swap) - sorting stack using two sorting algorithms and additional stack;
      - [fdf](https://github.com/vladdez/fdf) - basic visualization of objects;
      - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors;
-     - [corewar](https://github.com/almayor/corewar) - game of code examples in assembler.
+     - [corewar](https://github.com/almayor/corewar) - game of code examples in assembler;
+     - [docker](https://github.com/vladdez/docker) - basic Docker projects.
 
     ***Python projects***:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
