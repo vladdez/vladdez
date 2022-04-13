@@ -32,6 +32,9 @@ Here are some ideas to get you started:
      - [fdf](https://github.com/vladdez/fdf) - basic visualization of objects;
      - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors;
      - [corewar](https://github.com/almayor/corewar) - game of code examples in assembler;
+
+   ***System administration projects***:
+     - [snow-crash](https://github.com/vladdez/snow-crash) - basic disassembling, cybersecurity and vulnerability detection of shell scripts;
      - [docker](https://github.com/vladdez/docker) - basic Docker projects.
 
     ***Python projects***:
