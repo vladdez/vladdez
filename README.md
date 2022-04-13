@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 #### 👔Cases from job interviews
 
-   - [Criteo](https://github.com/vladdez/Criteo_case)
+   - [Criteo](https://github.com/vladdez/Criteo_case) - analyses of a product sales over time.
 
 #### Hackatons
 
