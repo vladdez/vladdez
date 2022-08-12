@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Coursera certificates](https://github.com/vladdez/MOOC_certeficates)
  
 #### 🔬Research Projects
-- [pupillometry (2020](https://github.com/vladdez/Pupillomerty-Project)
+- [pupillometry (2020)](https://github.com/vladdez/Pupillomerty-Project)
 - [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics)
 - [EEG plot user study (2022)](https://github.com/vladdez/EEG_plots) 
 
