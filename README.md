@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 
    ***System administration projects***:
      - [snow-crash](https://github.com/vladdez/snow-crash) - basic disassembling, cybersecurity and vulnerability detection of shell scripts;
-     - [rainfall](https://github.com/vladdez/rainfall) - analyses and reverse engeneering of binary files;
+     
      - [docker](https://github.com/vladdez/docker) - basic Docker projects.
 
+    ***Cybersecurity projects***:
+    - [snow-crash](https://github.com/vladdez/snow-crash) - basic cyberattacks;
+    - [rainfall](https://github.com/vladdez/rainfall) - analyses and reverse engeneering of binary files;
+    
     ***Python projects***:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
      - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron)  - perceptron from scratch;
