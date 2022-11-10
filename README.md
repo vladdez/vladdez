@@ -43,7 +43,9 @@ Here are some ideas to get you started:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
      - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron)  - perceptron from scratch;
      - [tvp](https://github.com/vladdez/total-perspective-vortex) - visualization and analysis of brain activity using mne library;
-     - [Django Piscine](https://github.com/vladdez/Django-Piscine) - bunch of exercises for site creation using Django library.
+     - [Django Piscine](https://github.com/vladdez/Django-Piscine) - bunch of exercises for web-site creation using Django library.
+     - [tweets](https://github.com/vladdez/tweets) - basic NLP for tweets (preprocessing and sentiment analyses).
+     - [churn](https://github.com/vladdez/churn) - churn prediction with various ML methods.
 
 
  - **Sber University** 
