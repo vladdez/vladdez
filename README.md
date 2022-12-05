@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### 🔬Research Projects
 - [pupillometry (2020)](https://github.com/vladdez/Pupillomerty-Project)
 - [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics)
-- [EEG plot user study (2022)](https://github.com/vladdez/EEG_plots) 
+- [8 EEG plots for user study (2022)](https://github.com/vladdez/EEG_plots) 
 
 #### 🎓Educational Projects
  - **School 21 projects** 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
    ***System administration projects***:
      - [snow-crash](https://github.com/vladdez/snow-crash) - basic disassembling, cybersecurity and vulnerability detection of shell scripts;
-     
      - [docker](https://github.com/vladdez/docker) - basic Docker projects.
 
     ***Cybersecurity projects***:
