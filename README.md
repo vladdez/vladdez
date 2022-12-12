@@ -28,29 +28,30 @@ Here are some ideas to get you started:
 
 #### 🎓Educational Projects
  - **School 21 projects** 
-
-   ***C projects***:
+    
+    ***C projects***:
      - [printf](https://github.com/vladdez/ft_printf) - recreation of printf function from scratch with float numbers;
      - [push_swap](https://github.com/vladdez/push_swap) - sorting stack using two sorting algorithms and additional stack;
      - [fdf](https://github.com/vladdez/fdf) - basic visualization of objects;
      - [lem_in](https://github.com/vladdez/lem-in) - several graph algorithms to put ant colony through the labyrinth without errors;
      - [corewar](https://github.com/almayor/corewar) - game of code examples in assembler;
 
-   ***System administration projects***:
+    ***System administration projects***:
      - [snow-crash](https://github.com/vladdez/snow-crash) - basic disassembling, cybersecurity and vulnerability detection of shell scripts;
      - [docker](https://github.com/vladdez/docker) - basic Docker projects.
 
-    ***Cybersecurity projects***:
+     ***Cybersecurity projects***:
     - [snow-crash](https://github.com/vladdez/snow-crash) - basic cyberattacks;
     - [rainfall](https://github.com/vladdez/rainfall) - analyses and reverse engeneering of binary files;
     
-    ***Python projects***:
+     ***Python projects***:
      - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
      - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron)  - perceptron from scratch;
      - [total-perspective-vortex](https://github.com/vladdez/total-perspective-vortex) - visualization and analysis of brain activity using mne library;
      - [Django Piscine](https://github.com/vladdez/Django-Piscine) - bunch of exercises for web-site creation using Django library.
      - [tweets](https://github.com/vladdez/tweets) - basic NLP for tweets (preprocessing and sentiment analyses).
      - [churn](https://github.com/vladdez/churn) - churn prediction with various ML methods.
+
 
 
  - **Sber University** 
