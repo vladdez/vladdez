@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 #### 🔬Research Projects
 - [pupillometry (2020)](https://github.com/vladdez/Pupillomerty-Project)
 - [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics)
-- [8 EEG plots for user study (2022)](https://github.com/vladdez/EEG_plots) 
+- 2022
+  - [8 EEG plots for user study](https://github.com/vladdez/EEG_plots) 
+  - [Interactive plots](https://github.com/vladdez/Dashboard.git)
 
 #### 🎓Educational Projects
  - **School 21 projects** 
