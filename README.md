@@ -21,12 +21,13 @@ Here are some ideas to get you started:
  
 #### 🔬Research Projects
 - [pupillometry (2020)](https://github.com/vladdez/Pupillomerty-Project)
-- [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics)
+- [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics) - anlysis of student's behaviour on 54 Coursera courses.
 - 2022
   - [8 EEG plots for user study](https://github.com/vladdez/EEG_plots) 
   - [Interactive plots](https://github.com/vladdez/Dashboard.git)
- - 2023
-  - [EEG UX study](https://github.com/vladdez/Survey_analyses) and [web-site with all cool graphs](https://vladdez.github.io/Survey_analyses/about.html)
+- 2023
+  - [EEG UX study](https://github.com/vladdez/Survey_analyses) and [web-site with all cool graphs](https://vladdez.github.io/Survey_analyses/about.html) - survey analysis of the EEG visualisation software
+  - [ERPExplorer.jl](https://github.com/vladdez/ERPExplorer.jl) - Julia library to explore EEG data in dev mode.
 
 #### 🎓Educational Projects
  - **School 21 projects** 
