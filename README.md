@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 2022
   - [8 EEG plots for user study](https://github.com/vladdez/EEG_plots) 
   - [Interactive plots](https://github.com/vladdez/Dashboard.git)
+ - 2023
+  - [EEG UX study](https://github.com/vladdez/Survey_analyses) and [web-site with all cool graphs](https://vladdez.github.io/Survey_analyses/about.html)
 
 #### 🎓Educational Projects
  - **School 21 projects** 
