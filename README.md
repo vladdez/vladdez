@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 2023
   - [EEG UX study](https://github.com/vladdez/Survey_analyses) and [web-site with all information](https://vladdez.github.io/Survey_analyses/about.html) - survey analysis of the EEG visualisation software
   - [ERPExplorer.jl](https://github.com/vladdez/ERPExplorer.jl) - Julia library to explore EEG data in dev mode.
-  - [UnfoldMakie.jl]([https://github.com/vladdez/ERPExplorer.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl)) - Julia library to viuslise Event-related potentials.
+  - [UnfoldMakie.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl) - Julia library to viuslise Event-related potentials.
 
 ### My education
 
