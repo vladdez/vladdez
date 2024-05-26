@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vladimir Mikheev. I am Data Scinetist with background in Cognitive Science. 
+My name is Vladimir Mikheev. I am a data scientist with a background in cognitive science. Currently I am a Doctoral researcher at the University of Stuttgart. 
 
 <!--
 **vladdez/vladdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### My research
-
+#### 📃Papers
+- [Mikheev V, Skukies R, Ehinger BV. The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. *Aperture Neuro*. 2024; 4.](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
+    - [source code](https://github.com/vladdez/Survey_analyses) and [web-site with all information](https://vladdez.github.io/Survey_analyses/about.html)
+      
 #### 🔬Research Projects
 - 2020
   - [Pupillometry and remapping (2020)](https://github.com/vladdez/Pupillomerty-Project)
@@ -27,9 +30,8 @@ Here are some ideas to get you started:
   - [8 EEG plots for user study](https://github.com/vladdez/EEG_plots) 
   - [Interactive plots](https://github.com/vladdez/Dashboard.git)
 - 2023
-  - [EEG UX study](https://github.com/vladdez/Survey_analyses) and [web-site with all information](https://vladdez.github.io/Survey_analyses/about.html) - survey analysis of the EEG visualisation software
   - [ERPExplorer.jl](https://github.com/vladdez/ERPExplorer.jl) - Julia library to explore EEG data in dev mode.
-  - [UnfoldMakie.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl) - Julia library to viuslise Event-related potentials.
+  - [UnfoldMakie.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl) - Julia library to visualize Event-related potentials.
 
 ### My education
 
@@ -61,7 +63,7 @@ Here are some ideas to get you started:
   
    ***Python projects***:  
    - [dslr](https://github.com/vladdez/dslr) - logistic regression from scratch;
-   - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron)  - perceptron from scratch;
+   - [multilayer-perceptron](https://github.com/vladdez/multilayer_perceptron) - perceptron from scratch;
    - [total-perspective-vortex](https://github.com/vladdez/total-perspective-vortex) - visualization and analysis of brain activity using mne library;
    - [Django Piscine](https://github.com/vladdez/Django-Piscine) - bunch of exercises for web-site creation using Django library.
    - [tweets](https://github.com/vladdez/tweets) - basic NLP for tweets (preprocessing and sentiment analyses).
@@ -74,7 +76,6 @@ Here are some ideas to get you started:
    - [Final project for Data Science course](https://github.com/vladdez/project_for_Sber_University)
  - **Robot_dreams** 
    - [Time Series and Forecasting](https://github.com/vladdez/RD_forscasting)
-
 
  
 #### 👔Cases from job interviews
