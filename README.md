@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### My research
 #### 📃Papers
-- [Mikheev V, Skukies R, Ehinger BV. The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. *Aperture Neuro*. 2024; 4.](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
+- [Mikheev V, Skukies R, Ehinger BV. The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. *Aperture Neuro*. 2024; 4. doi: 10.52294/001c.116386](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
     - [source code](https://github.com/vladdez/Survey_analyses) and [web-site with all information](https://vladdez.github.io/Survey_analyses/about.html)
       
 #### 🔬Research Projects
