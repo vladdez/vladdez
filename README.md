@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 2020
   - [Pupillometry and remapping (2020)](https://github.com/vladdez/Pupillomerty-Project)
 - 2021
-  - [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics) and [web-site with all information](https://vladdez.github.io/MOOC/about.html)- analysis of student's behaviour on 58 Coursera courses.
+  - [Coursera analytics (2021)](https://github.com/vladdez/HSE_MOOC_forums_analytics) and [web-site with all information](https://vladdez.github.io/MOOC/about.html) - analysis of student's behaviour on 58 Coursera courses.
 - 2022
   - [8 EEG plots for user study](https://github.com/vladdez/EEG_plots) 
   - [Interactive plots](https://github.com/vladdez/Dashboard.git)
