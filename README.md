@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 #### 📃Papers
 - [Mikheev V, Skukies R, Ehinger BV. The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. *Aperture Neuro*. 2024; 4. doi: 10.52294/001c.116386](https://apertureneuro.org/article/116386-the-art-of-brainwaves-a-survey-on-event-related-potential-visualization-practices)
     - [source code](https://github.com/vladdez/Survey_analyses) and [web-site with all information](https://vladdez.github.io/Survey_analyses/about.html)
-      
+ - [Mikheev, V., & Ehinger, B. (2025). UnfoldMakie. jl: EEG/ERP visualization package. Journal of Open Source Software, 10(105), 7560. doi: 10.21105/joss.07560](https://joss.theoj.org/papers/10.21105/joss.07560)
+    -  [UnfoldMakie.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl) - Julia library to visualize Event-related potentials.
+           
 #### 🔬Research Projects
 - 2020
   - [Pupillometry and remapping (2020)](https://github.com/vladdez/Pupillomerty-Project)
@@ -31,7 +33,6 @@ Here are some ideas to get you started:
   - [Interactive plots](https://github.com/vladdez/Dashboard.git)
 - 2023
   - [ERPExplorer.jl](https://github.com/vladdez/ERPExplorer.jl) - Julia library to explore EEG data in dev mode.
-  - [UnfoldMakie.jl](https://github.com/unfoldtoolbox/UnfoldMakie.jl) - Julia library to visualize Event-related potentials.
 
 ### My education
 
